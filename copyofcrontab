@@ -1,0 +1,1 @@
+0 0 * * 0 root /etc/testpython/es_queries.py &> /etc/testpython/scriptout.log
